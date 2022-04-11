@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZainiAli
 - 👀 I’m interested in Unity3D and Cyber Security
-- 🌱 I’m currently learning ... Unity 3D and Cyber Security
+- 🌱 I’m currently learning Unity 3D and Cyber Security
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me zain52650@gmail.com
+- 📫  zain52650@gmail.com
 
 <!---
 ZainiAli/ZainiAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
